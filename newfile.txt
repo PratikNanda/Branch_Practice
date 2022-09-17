@@ -1,0 +1,2 @@
+this is the random text file
+just practicing the operations from terminal
